@@ -10,7 +10,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Neko1313&theme=solarized_dark)
 
 
-| | |Col1|<!---->|
+| |A|<!---->|<!--->|
 |-|-|-|-|
 |    |   A |   B |   D |
 |  0 |   1 |   2 |   4 |
