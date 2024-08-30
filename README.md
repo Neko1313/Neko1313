@@ -9,10 +9,3 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Neko1313&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Neko1313&theme=solarized_dark)
 
-| | a | |
-|---:|----:|----:|
-|    |   a |   b |
-|---:|----:|----:|
-|  0 |   1 |   4 |
-|  1 |   2 |   5 |
-|  2 |   3 |   6 |
